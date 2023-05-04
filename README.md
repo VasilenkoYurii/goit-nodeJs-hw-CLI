@@ -1,1 +1,1 @@
-http://joxi.ru/L21B6dYiDwd1WA
+https://ibb.co/1Z0NjPq
