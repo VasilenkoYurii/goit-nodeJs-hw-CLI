@@ -2,7 +2,7 @@
 
 ## Receive and display the entire list of contacts in the form of a table (console.table)
 
-```json
+```javascript
 node index.js --action="list"
 ```
 
@@ -10,7 +10,7 @@ node index.js --action="list"
 
 ## Receive a contact by id
 
-```json
+```javascript
 node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
 ```
 
@@ -18,7 +18,7 @@ node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
 
 ## Add a contact
 
-```json
+```javascript
 node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22-22
 ```
 
@@ -26,7 +26,7 @@ node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22
 
 ## Delete the contact
 
-```json
+```javascript
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 ```
 
